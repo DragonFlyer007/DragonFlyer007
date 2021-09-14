@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DragonFlyer007
+- 👀 I’m interested in 3D printing
+- 🌱 I’m currently learning Klipper, gcodes ++
+- 💞️ I’m looking to collaborate on the world of computing
+- 📫 How to reach me: Look up to the stars, and shout 39085t82348ujr8947!
